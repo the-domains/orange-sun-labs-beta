@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Orange Sun Labs beta]]></title>
         <description><![CDATA[Orange Sun Labs beta]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/orange-sun-labs-beta/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 08:48:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Apr 2016 08:48:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/orange-sun-labs-beta/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/93db74bb-c4c1-4642-95b5-1789ae54ead5.jpg">]]></description>
-            <link>undefinedscience-from-silence/index.html</link>
+            <link>https://thegrid.ai/orange-sun-labs-beta/science-from-silence/index.html</link>
             <guid isPermaLink="false">875c9d5a-95b8-4dba-8675-b7c08d21285d</guid>
-            <pubDate>Thu, 21 Apr 2016 08:47:55 GMT</pubDate>
+            <pubDate>Thu, 21 Apr 2016 08:48:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
