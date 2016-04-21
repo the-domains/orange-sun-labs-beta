@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Science from Silence
-datePublished: '2016-04-21T08:47:55.971Z'
-dateModified: '2016-04-21T08:47:26.494Z'
+datePublished: '2016-04-21T08:48:22.285Z'
+dateModified: '2016-04-21T08:48:02.066Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-21-science-from-silence.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-21-science-from-silence.md
-published: true
 url: science-from-silence/index.html
 _type: Article
 
