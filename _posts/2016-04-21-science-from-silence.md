@@ -1,17 +1,18 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: Science from Silence
-datePublished: '2016-07-13T20:36:29.406Z'
-dateModified: '2016-07-13T20:19:54.037Z'
-title: ''
-author: []
+datePublished: '2016-08-31T17:01:34.605Z'
 sourcePath: _posts/2016-04-21-science-from-silence.md
+inFeed: true
 authors: []
-publisher: null
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-08-31T17:01:34.142Z'
+title: ''
+publisher: {}
+description: Science from Silence
+inLanguage: null
+inNav: false
+via: {}
 starred: true
 url: science-from-silence/index.html
 _type: Article
